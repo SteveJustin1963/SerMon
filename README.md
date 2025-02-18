@@ -7,7 +7,7 @@
 
 ## to run tests
 
-- select the `main-test.z80` file
+- select the `main-test.z80` file..............shoud be `test-main.z80`
 - press `Emulator [F10]` button
 
 ## to run app
